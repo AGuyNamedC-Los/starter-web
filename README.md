@@ -16,4 +16,4 @@ once again just some more words
 
 ## Copyright
 
-adding some copyright, so ill sue you
+adding some copyright, so ill sue you for all your worht and then some
