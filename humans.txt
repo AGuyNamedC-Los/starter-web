@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	Carlos castillo	 Associate
+	person 1
 # THANKS
 
     <name>
