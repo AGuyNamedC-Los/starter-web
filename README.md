@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 once again just some more words
 
 ## Copyright
+
+adding some copyright, so ill sue you
